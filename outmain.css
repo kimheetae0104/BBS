@@ -1,0 +1,14 @@
+.title{
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    top: 10px ;
+    left: 20px;
+}
+.fa-user{
+    font-size: 40px;
+    color: white;
+    position: absolute;
+    top: 36px ;
+    right: 120px;
+}
